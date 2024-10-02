@@ -22,7 +22,7 @@
 ---
 
 ## 🎯 Em desenvolvimento
-- Aprendendo mais sobre estrutura de dados e algoritmos  
+- Aprendendo mais sobre Spring  
 - Focando em projetos práticos para aprofundar minhas habilidades  
 
 ---
