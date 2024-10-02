@@ -29,9 +29,4 @@
 
 ## 📫 Entre em contato
 - [LinkedIn](https://www.linkedin.com/in/arthursleite)  
-- Email: arthurmais4@gmail.com  
-
----
-
-## 🐍 Snake animation
-![Snake animation](https://github.com/SeuUsuario/arthursleite/blob/output/github-contribution-grid-snake.svg)
+- Email: arthurmais4@gmail.com
